@@ -1,4 +1,4 @@
-## Bem vindo, sou Davi Taveira
+## I'm Taveira
 
  <div>
   <a href="https://github.com/xtaveira">
@@ -13,7 +13,7 @@
  
  <br>
  
- ## Desenvolvedor Júnior! Me segue no Instagram!
+ ## Jr Dev
  
 <div> 
   <a href="https://www.youtube.com/channel/UCVzZiIIhoxr0qWUaAqYV3hQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
