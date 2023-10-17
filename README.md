@@ -1,4 +1,4 @@
-## I'm Taveira, Full Stack Dev.
+## I'm Taveira, Junior Next.Js Dev.
 
  <div>
   <a href="https://github.com/xtaveira">
