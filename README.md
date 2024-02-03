@@ -1,4 +1,4 @@
-## Glad to receive you here, I'm Davi Taveira, Web Developer since 2022 and search an opportunity, let's talk!
+## It's great to welcome you here, I'm Davi Taveira, Web Developer since 2022 and I'm looking for an opportunity, let's talk!
 
  <div>
   <a href="https://github.com/xtaveira">
