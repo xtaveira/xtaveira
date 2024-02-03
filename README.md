@@ -1,4 +1,4 @@
-## I'm Taveira, Junior Next.Js Dev.
+## Glad to receive you here, I'm Davi Taveira, Web Developer since 2022 and search an opportunity, let's talk!
 
  <div>
   <a href="https://github.com/xtaveira">
